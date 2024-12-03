@@ -1,0 +1,27 @@
+2024-11-25 17:31:11 - Game initialized. White's turn to play.
+2024-11-25 17:31:14 - Screen coords (268, 390) -> Board coords [5, 2]
+2024-11-25 17:31:14 - Board Position: C3 [White]
+2024-11-25 17:31:14 - White piece selected at C3
+2024-11-25 17:31:14 - Valid moves: B4 D4 
+2024-11-25 17:31:15 - Screen coords (341, 334) -> Board coords [4, 3]
+2024-11-25 17:31:15 - Board Position: D4 [Empty]
+2024-11-25 17:31:15 - Attempting move C3 to D4
+2024-11-25 17:31:15 - Move successful: C3 -> D4
+2024-11-25 17:31:15 - Black's turn to play
+2024-11-25 17:31:15 - Selection cleared
+2024-11-25 17:31:16 - Screen coords (341, 334) -> Board coords [4, 3]
+2024-11-25 17:31:16 - Board Position: D4 [White]
+2024-11-25 17:31:16 - Invalid Selection: It's Black's turn
+2024-11-25 17:31:19 - Screen coords (363, 326) -> Board coords [4, 3]
+2024-11-25 17:31:19 - Board Position: D4 [White]
+2024-11-25 17:31:19 - Invalid Selection: It's Black's turn
+2024-11-25 17:31:21 - Screen coords (229, 214) -> Board coords [2, 1]
+2024-11-25 17:31:21 - Board Position: B6 [Black]
+2024-11-25 17:31:21 - Black piece selected at B6
+2024-11-25 17:31:21 - Valid moves: A5 C5 
+2024-11-25 17:31:24 - Screen coords (139, 268) -> Board coords [3, 0]
+2024-11-25 17:31:24 - Board Position: A5 [Empty]
+2024-11-25 17:31:24 - Attempting move B6 to A5
+2024-11-25 17:31:24 - Move successful: B6 -> A5
+2024-11-25 17:31:24 - White's turn to play
+2024-11-25 17:31:24 - Selection cleared

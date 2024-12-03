@@ -1,0 +1,3 @@
+/home/dev/documents/UnP/checker-game-a3 Oficioal/build/CMakeFiles/checkers.dir
+/home/dev/documents/UnP/checker-game-a3 Oficioal/build/CMakeFiles/edit_cache.dir
+/home/dev/documents/UnP/checker-game-a3 Oficioal/build/CMakeFiles/rebuild_cache.dir

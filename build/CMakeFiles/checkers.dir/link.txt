@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/checkers.dir/main.cpp.o CMakeFiles/checkers.dir/Board.cpp.o CMakeFiles/checkers.dir/Game.cpp.o CMakeFiles/checkers.dir/Renderer.cpp.o -o checkers  /usr/lib/x86_64-linux-gnu/libGLEW.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 -lGLU /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so 
